@@ -1,0 +1,7 @@
+com\example\webservice2\LenguaEndpint.class
+io\spring\guides\gs_producing_web_service\GetLenguaRequest.class
+io\spring\guides\gs_producing_web_service\GetLenguaResponse.class
+io\spring\guides\gs_producing_web_service\Lengua.class
+com\example\webservice2\WebService2Config.class
+com\example\webservice2\WebService2Application.class
+com\example\webservice2\LenguaRepository.class
